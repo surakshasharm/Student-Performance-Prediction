@@ -21,7 +21,7 @@ Extract features (Math, Physics, Chemistry) and target (Grade)
 Encode categorical labels with LabelEncoder
 Split into training and testing sets
 
-##3 Model Training
+### Model Training
 Logistic Regression (LogisticRegression)
 Random Forest (RandomForestClassifier)
 
