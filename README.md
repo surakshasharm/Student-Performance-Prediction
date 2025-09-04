@@ -5,15 +5,14 @@ The goal is to compare classification algorithms (Logistic Regression and Random
 
 ## Files in this Repository 📂
 student_dataset.csv → Dataset containing students’ subject scores and grades.
-
 student_performance.py → Python script for training, testing, and evaluating machine learning models.
 
 README.md → Project documentation.
 
 ## Tech Stack 🛠️
 Python
-Pandas, NumPy → Data manipulation
-Matplotlib, Seaborn → Data visualization
+Pandas, NumPy → Data manipulation 
+Matplotlib, Seaborn → Data visualization 
 Scikit-learn → Machine learning models and evaluation
 
 ## Workflow 📊
